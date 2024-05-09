@@ -1,6 +1,6 @@
 # ExpNo : 10 Implementation of Classical Planning Algorithm
-## DEVELOPED BY : Gunaseelan G
-## REG NO : 212221230031
+## DEVELOPED BY : Kavya K
+## REG NO : 212222230065
 ## AIM :
 To Implementation of Classical Planning Algorithm
 ## Algorithm :
